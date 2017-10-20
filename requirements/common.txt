@@ -1,0 +1,13 @@
+click==6.7
+Flask==0.12.2
+Flask-Admin==1.5.0
+Flask-SQLAlchemy==2.3.0
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+SQLAlchemy==1.1.14
+Werkzeug==0.12.2
+WTForms==2.1
+pillow==2.9.0
+flask-bootstrap==3.3.7
+Markdown==2.3.1
